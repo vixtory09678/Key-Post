@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Post</string>
+    <string name="str_info">Application Tool ที่จะช่วยให้การจดจำของคุณง่ายขึ้น ผ่าน Key Word ของคุณเอง</string>
+    <string name="facebook_app_id">1798496050196835</string>
+    <string name="fb_login_protocol_scheme">fb1798496050196835</string>
+    <string name="title_activity_main_post_key">MainPostKeyActivity</string>
+
+    <string name="loading">Loading…</string>
+    <string name="title_activity_edit_key_post">EditKeyPostActivity</string>
+
+    <!-- edit key post activity-->
+    <string name="edit_key_post_title">ชื่อหัวข้อ</string>
+    <string name="edit_key_post_color">เลือกสีหัวข้อ</string>
+    <string name="edit_key_post_add_key">ADD KEY</string>
+    <string name="edit_key_post_list">Key Value List</string>
+
+    <!-- edit key value activity-->
+    <string name="edit_key_value_key">Key</string>
+    <string name="edit_key_value_value">Value</string>
+    <string name="title_activity_edit_key">EditKeyActivity</string>
+</resources>

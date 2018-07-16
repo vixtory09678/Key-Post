@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="surface_bg">#fffbe6</color>
+    <color name="text_black">#000</color>
+
+    <array name="demo_colors">
+        <item>#a2b9bc</item>
+        <item>#b2ad7f</item>
+        <item>#878f99</item>
+        <item>#6b5b95</item>
+        <item>#7a3b2e</item>
+        <item>#feb236</item>
+        <item>#d64161</item>
+        <item>#ff7b25</item>
+        <item>#3e4444</item>
+        <item>#82b74b</item>
+        <item>#92a8d1</item>
+        <item>#034f84</item>
+        <item>#f7786b</item>
+        <item>#c94c4c</item>
+        <item>#eea29a</item>
+        <item>#f18973</item>
+        <item>#a79e84</item>
+        <item>#588c7e</item>
+        <item>#d96459</item>
+        <item>#ffeead</item>
+    </array>
+</resources>
